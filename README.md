@@ -15,3 +15,16 @@ Con Los siguientes temas visto se realiza el conversor de moneda:
 4. Java: consumir API, escribir archivos y manejar errores
 
 Con estos cursos bases se crea el Challenge 
+
+Ademas se agrega la opcion 7 para convertir otros tipos de monedas con el codigo de su pais
+
+![image](https://github.com/user-attachments/assets/a2b16336-fd22-43c7-8af7-78292cb3253d)
+
+
+# Aplicativo
+
+Se Utiliza IntelliJ IDEA Community Edition 2023 / Java
+
+# Quien realiza el proyecto
+
+Jhojan Sanchez dando sus primeros pasos a la programación
